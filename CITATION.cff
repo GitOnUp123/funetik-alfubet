@@ -1,0 +1,13 @@
+
+cff-version: 1.2.0
+message: "If you use the Fünetik Alfübet, please cite it as below."
+title: "Fünetik Alfübet: 'Keep It Simple' Phonetic Alphabet"
+authors:
+  - family-names: Wright
+    given-names: Wesley
+version: "0.9"
+date-released: 2026-04-26
+license: CC-BY-4.0
+repository-code: "https://github.com/GitOnUp123/funetik-alfubet"
+citation: |
+  Wright, W. (2026). Fünetik Alfübet: "Keep It Simple" Phonetic Alphabet. CC BY 4.0. DOI 10.5281/zenodo.19800336.
